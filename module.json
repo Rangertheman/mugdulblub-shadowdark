@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.2",
+   "version":"0.0.3",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -22,7 +22,7 @@
    "relationships":{
       "systems":[
          {
-            "id":"shadowdarke",
+            "id":"shadowdark",
             "type":"system",
             "compatibility":{
                "minimum":"3.6.0",
