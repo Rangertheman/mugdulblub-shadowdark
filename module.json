@@ -1,0 +1,44 @@
+{
+   "id":"mugdulblub-shadowdark",
+   "title":"The Hideous Halls of Mugdulblub",
+   "description":"Shadowdark: The Halls of Mugdulblub",
+   "url":"https://github.com/Rangertheman/mugdulblub-shadowdark",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/mugdulblub-shadowdark/master/module.json",
+   "download":"https://github.com/Rangertheman/mugdulblub-shadowdark/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"13",
+      "verified":"13"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"shadowdarke",
+            "type":"system",
+            "compatibility":{
+               "minimum":"3.6.0",
+               "verified":"3.6.0"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"The Hideous Halls of Mugdulblub",
+         "name":"mugdulblub-shadowdark",
+         "path":"./packs/mugdulblub-shadowdark.db",
+         "type":"Adventure",
+         "system":"shadowdark",
+         "banner":"./modules/mugdulblub-shadowdark/img/Cover_image.jpg"
+      }
+   ]
+}
