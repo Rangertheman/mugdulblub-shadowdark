@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -34,8 +34,8 @@
    "packs":[
       {
          "label":"The Hideous Halls of Mugdulblub",
-         "name":"mugdulblub-shadowdark",
-         "path":"./packs/mugdulblub-shadowdark.db",
+         "name":"the-hideous-halls-of-mugdulblub",
+         "path":"./packs/the-hideous-halls-of-mugdulblub.db",
          "type":"Adventure",
          "system":"shadowdark",
          "banner":"./modules/mugdulblub-shadowdark/img/Cover_image.jpg"
