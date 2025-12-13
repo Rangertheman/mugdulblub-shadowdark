@@ -1,7 +1,7 @@
 {
    "id":"mugdulblub-shadowdark",
    "title":"The Hideous Halls of Mugdulblub",
-   "description":"Shadowdark: The Halls of Mugdulblub",
+   "description":"Shadowdark: The Hideous Halls of Mugdulblub",
    "url":"https://github.com/Rangertheman/mugdulblub-shadowdark",
    "manifest":"https://raw.githubusercontent.com/Rangertheman/mugdulblub-shadowdark/master/module.json",
    "download":"https://github.com/Rangertheman/mugdulblub-shadowdark/archive/master.zip",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.0",
+   "version":"0.1.1",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
